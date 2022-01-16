@@ -7,4 +7,4 @@
   version: v2.0.2
 
 - src: seliverstov.zookeeper
-  version: v3.2.2
+  version: develop
