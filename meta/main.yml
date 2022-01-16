@@ -15,7 +15,7 @@ galaxy_info:
     - development
 
 dependencies:
-  - role: sansible.java
+  - role: geerlingguy.java
     sansible_java_vendor: "{{ sansible_kafka_java_vendor }}"
     sansible_java_version: "{{ sansible_kafka_java_version }}"
 
